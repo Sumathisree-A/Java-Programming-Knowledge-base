@@ -29,7 +29,6 @@ This repository contains basic Java programs and concepts that I have learned an
 ### 3. Clone or download this repository:
    ```bash
    git clone https://github.com/Sumathisree-A/Java-Programming-Knowledge-base
-   cd java-Programming
    ```
 
 ### 4. Compile the Java file:
@@ -40,7 +39,60 @@ This repository contains basic Java programs and concepts that I have learned an
     ```bash
     java FileName
     ```
-
+### 📁 Folder Structure
+```
+Java-Programming-Knowledge-base/
+│
+├── basics/
+│   ├── DataTypes.java
+│   ├── HelloWorld.java
+│   ├── Operators.java
+│   ├── TypeCasting.java
+│   ├── UserInput.java
+│   ├── loops/
+│   │   └── Loops.java
+│   └── NonPrimitiveDatatypes/
+│       ├── array/
+│       │   ├── MultiDimensionArray.java
+│       │   └── SingleDimensionArray.java
+│       └── string/
+│           └── StringManipulation.java
+│
+├── Collections/
+│   ├── ArrayListExample.java
+│   └── LinkedListExample.java
+│
+├── constructors/
+│   ├── Constructor.java
+│   ├── ConstructorChaining.java
+│   ├── ConstructorOverloading.java
+│   ├── ConstructorType.java
+│   └── ChainingUsingInheritance.java
+│
+├── oops/
+│   ├── ClassAndObjects.java
+│   ├── Abstraction.java
+│   ├── InterfaceExample.java
+│   ├── Encapsulation.java
+│   ├── AccessModifiers.java
+│   ├── inheritance/
+│   │   ├── SingleInheritance.java
+│   │   ├── MultilevelInheritance.java
+│   │   └── UpcastingAndDowncasting.java
+│   └── polymorphism/
+│       ├── MethodOverloading.java
+│       └── MethodOverridding.java
+│
+├── ExampleThread/
+│   ├── ThreadUsingExtends.java
+│   ├── ThreadUsingRunnable.java
+│   └── DaemonThreadProcess.java
+│
+├── GuiApp.java
+├── ExceptionHandling.java
+├── .gitignore
+└── README.md
+```
 
 ## 📌 Notes
 
