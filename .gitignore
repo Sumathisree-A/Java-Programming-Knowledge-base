@@ -1,0 +1,37 @@
+# Java class files
+*.class
+
+# Log files
+*.log
+
+# Package Files
+*.jar
+*.war
+*.ear
+
+# Compiled files
+bin/
+build/
+
+# VS Code
+.vscode/
+
+# Eclipse
+*.swp
+*.bak
+*.tmp
+*.~*
+.classpath
+.project
+.settings/
+
+# IntelliJ
+*.iml
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Ignore JSON files
+*.json
