@@ -1,0 +1,23 @@
+// Queue is an interface
+// FIFO - first In First Out
+// can't be instantiated , use subclasses like linkedlist etc
+import java.util.*;
+
+public class QueueExample
+{
+    public static void main(String[] args) 
+    {
+      	Queue<String> queue = new LinkedList<>();
+
+        queue.add("apple");
+        queue.add("banana");
+        queue.add("cherry");
+
+        System.out.println("Queue: " + queue);
+
+        String first = queue.remove();
+        System.out.println("Removed element: " + first);
+
+        System.out.println("Queue: " + queue);
+    }
+}
