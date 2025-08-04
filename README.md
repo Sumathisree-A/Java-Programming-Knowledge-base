@@ -18,6 +18,7 @@ This repository contains basic Java programs and concepts that I have learned an
 - ✅ Collections
 - ✅ Exception Handling
 - ✅ Threading
+- ✅ Object Comparison
 - ✅ Basic GUI using Swing
 
 ## 🛠 How to Run
@@ -32,13 +33,13 @@ This repository contains basic Java programs and concepts that I have learned an
    ```
 
 ### 4. Compile the Java file:
-    ```bash
+    bash
     javac FileName.java
-    ```
+    
 ### 5. Run the program:
-    ```bash
+    bash
     java FileName
-    ```
+   
 ### 📁 Folder Structure
 ```
 Java-Programming-Knowledge-base/
@@ -100,6 +101,7 @@ Java-Programming-Knowledge-base/
 │
 ├── GuiApp.java
 ├── ExceptionHandling.java
+├── ObjectComparison.java
 ├── .gitignore
 └── README.md
 ```
