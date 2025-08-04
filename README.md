@@ -15,7 +15,7 @@ This repository contains basic Java programs and concepts that I have learned an
 - ✅ Abstraction and Encapsulation
 - ✅ Interface
 - ✅ Polymorphism
-- ✅ Collections (ArrayList, LinkedList)
+- ✅ Collections
 - ✅ Exception Handling
 - ✅ Threading
 - ✅ Basic GUI using Swing
@@ -59,9 +59,19 @@ Java-Programming-Knowledge-base/
 │           └── StringManipulation.java
 │
 ├── Collections/
-│   ├── ArrayListExample.java
-│   └── LinkedListExample.java
-│
+│   ├── listinterface/
+│   │   ├── AbstractListExample.java
+│   │   ├── AbstractSequentialExample.java
+│   │   ├── ArrayListExample.java
+│   │   ├── LinkedListExample.java
+│   │   ├── StackExample.java
+│   │   └──  VectorExample.java  
+│   └── mapinterface.java
+│   │   ├── HashMapExample.java
+│   │   └── HashTableExample.java
+│   └── setinterface
+│   │   └── HashSetExample.java
+│   └── QueueExample.java
 ├── constructors/
 │   ├── Constructor.java
 │   ├── ConstructorChaining.java
